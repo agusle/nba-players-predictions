@@ -24,19 +24,16 @@
 
 ## 📖 About
 - **Problem**: 
-    - Learn how to define a prediction task
-    - Selecting evaluation metrics and baseline models
-    - Perform feature engineering and standarization
-    - Training and using predictive models: Univariable and Multivariate Linear Regression, Classification
-    - Understand how Gradient Descent works by implementing a Linear Regressor in python
+Explain the problem
 
-- **Industries**: fintech, banks, insurtech, many others related. 
+- **Industries**: Enumerate industries.
 
 - **Solution**:
-Predict whether a person applying for a home credit will be able to repay their debt or not. Data pre-processing for a large dataset of +350,000 transactions. Trained many supervised models achieving +0.72 ROC AUC. Models used where DecisionTree, XGBoost and LightGBM.
+Explain the solution
 
 You can see the whole project in the following **notebook**:
- - [Home credit default risk](https://github.com/agusle/nba-players-predictions/blob/main/home-credit-default-risk.ipynb)
+ - [Notebook 1]()
+ - [Notebook 2]()
 
 ------------------
 
