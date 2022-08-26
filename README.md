@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img src="https://github.com/agusle/nba-players-predictions/blob/main/img/project-logo.png">
+    <img src="https://github.com/agusle/nba-players-predictions/blob/main/img/project-logo-nba.png">
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ Listed below you'll find an example or application usage to run the project:
     - Open an internet browser and go to: https://colab.research.google.com/
     - On the menu select File / Open Notebook
     - Select the GitHub tab and copy the project url: https://github.com/agusle/nba-players-predictions
-    - Click on *home-credit-default-risk.ipynb*
+    - Click on *nba-players-dataset.ipynb* or *nba_players_predictions.ipynb* to see the notebook
     - Make a copy to your google drive acoount clicking the following icon ![copy-to-drive](https://github.com/agusle/nba-players-predictions/blob/main/img/copy-to-drive.PNG)
     - Go to tab *Runtime* and select *Run all*.
 
@@ -53,7 +53,7 @@ Listed below you'll find an example or application usage to run the project:
 - **Open and execute in Jupyter notebook:**
     - Open an internet browser and got to: https://nbviewer.org/
     - Insert project path: https://github.com/agusle/nba-players-predictions and press Go! button.
-    - Click on *home-credit-default-risk.ipynb* to see the notebook
+    - Click on *nba-players-dataset.ipynb* or *nba_players_predictions.ipynb* to see the notebook
     - If you want to execute it click on *execute on binder* icon ![binder](https://github.com/agusle/nba-players-predictions/blob/main/img/binder.png)
     - Go to tab *Cell* and click on *Run all*.
 
