@@ -15,21 +15,55 @@
 </p>
 
 <p align="center">
-  <a href="#-about">About</a> •
-  <a href="#%EF%B8%8F-install-and-run">Install and Run</a> •
-  <a href="#-contribute">Contribute</a> •
+    <a href="#-introduction">Introduction</a> •
+    <a href="#-about">About</a> •
+    <a href="#%EF%B8%8F-install-and-run">Install and Run</a> •
+    <a href="#-contribute">Contribute</a> •
 </p>
 
 ------------------
+## 🏀 Introduction - Analysis of NBA players in the 2021/2022 season
 
-## 📖 About
+The National Basketball Association is the main basketball league in the United States of America. It currently features 30 teams from different cities, divided in 2 conferences (East and West) of 15 teams. Each team plays a total of 82 games during the regular season. After that, the 8 teams with better records from each conference are seeded in a playoff format, with the winner of each conference playing the finals to determine the eventual champion. NBA seasons usually play out between october of one year, to june of the next year, so for example the current season being played is called the 2021/2022 season.
+
+As in most leagues in the world, the game is played 5 vs 5 players, with as many as 9 reserve players that can rotate with the starters as many times as the team wants. Games are played to 48 minutes, so the total amount of minutes of combined play time for any team in a single game with no added time is 240 minutes. If the score is tied at the end of the 48 minutes, 5 minutes of extra time are played, this continues until a winner is decided.
+
+Even though they can play multiple positions, players are usually classified according to the following positions:
+
+- Guards
+    - Point Guards
+    - Shooting Guards
+- Forwards
+    - Small Forwards
+    - Power Forwards
+- Centers
+
+We will mainly focus on the three main positions: Guards/Forwards/Centers.
+
+You might be wondering: why basketball? The first reason is availability of data and the second one, because I love it.
+
+The sport is played at a fast pace, with hundreds of plays in each single game, thousands of games in a season, and with a relatively small amount of on-court players, which gives them a lot of interactions with the ball, which in turn provides an oportunity to collect a great amount of data about each player performance.
+
+
+## 📖 About 
+
 - **Problem**: 
 Explain the problem
 
-- **Industries**: Enumerate industries.
+- **Industries**: Sports, NBA franchises, NBA Agents, NBA consultants.
 
 - **Solution**:
-Explain the solution
+These are the objectives of the project:
+    - Understanding how to query an API to create a dataset with Python and Pandas
+    - Learning how to cleanup a dataset and generate new fields from calculated data
+    - Storing the created dataset in a serialized manner
+    - Generating statistics about the data
+    - Visualizing data
+    - Learn how to define a prediction task
+    - Selecting evaluation metrics and baseline models
+    - Perform feature engineering and standarization
+    - Training and using predictive models: Univariable and Multivariate Linear Regression, Classification
+    - Understand how Gradient Descent works by implementing a Linear Regressor in python
 
 You can see the whole project in the following **notebook**:
  - [Notebook 1]()
