@@ -56,7 +56,7 @@ The sport is played at a fast pace, with hundreds of plays in each single game, 
     - **Binary classification** to predict All-NBA players selections.
 
 
-You can see the whole project in the following **notebook**:
+You can see the whole project in the following **notebooks**:
  - [Building the dataset](https://github.com/agusle/nba-players-predictions/blob/main/nba-players-dataset.ipynb)
  - [Making estimations](https://github.com/agusle/nba-players-predictions/blob/main/nba_players_predictions.ipynb)
 
