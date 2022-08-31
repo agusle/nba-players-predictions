@@ -47,23 +47,14 @@ The sport is played at a fast pace, with hundreds of plays in each single game, 
 
 ## 📖 About 
 
-- **Problem**: 
-Explain the problem
+- **Problem**: During the NBA's free agency period, when there are no games, players whose contracts have expired must negotiate a new contract with an existing team, which may be their last or a new one. In addition, players and teams can agree to a contract extension while the regular season is in progress, but only if certain conditions are met. In all these cases, both parties have to **negotiate the player's salary** and contract years, among other clauses, based on his performance. Therefore, this solution is useful for both sides of the contracts to estimate a baseline to start a negotiation.
 
-- **Industries**: Sports, NBA franchises, NBA Agents, NBA consultants.
+- **Industries and applications**: Sports, NBA franchises, NBA Agents, NBA consultants, Basketball players.
 
-- **Solution**:
-These are the objectives of the project:
-    - Understanding how to query an API to create a dataset with Python and Pandas
-    - Learning how to cleanup a dataset and generate new fields from calculated data
-    - Storing the created dataset in a serialized manner
-    - Generating statistics about the data
-    - Visualizing data
-    - Learn how to define a prediction task
-    - Selecting evaluation metrics and baseline models
-    - Perform feature engineering and standarization
-    - Training and using predictive models: Univariable and Multivariate Linear Regression, Classification
-    - Understand how Gradient Descent works by implementing a Linear Regressor in python
+- **Solution**: Building a dataset by connecting to the NBA API and performing various estimations and predictions with Machine Learning algorithms:
+    - **Regression Models** to estimate players salaries.
+    - **Binary classification** to predict All-NBA players selections.
+
 
 You can see the whole project in the following **notebook**:
  - [Building the dataset](https://github.com/agusle/nba-players-predictions/blob/main/nba-players-dataset.ipynb)
