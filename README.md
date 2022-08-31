@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <a href="#-introduction">Introduction</a> •
+    <a href="#-introduction---analysis-of-nba-players-in-the-20212022-season">Introduction</a> •
     <a href="#-about">About</a> •
     <a href="#%EF%B8%8F-install-and-run">Install and Run</a> •
     <a href="#-contribute">Contribute</a> •
@@ -66,8 +66,8 @@ These are the objectives of the project:
     - Understand how Gradient Descent works by implementing a Linear Regressor in python
 
 You can see the whole project in the following **notebook**:
- - [Notebook 1]()
- - [Notebook 2]()
+ - [Building the dataset](https://github.com/agusle/nba-players-predictions/blob/main/nba-players-dataset.ipynb)
+ - [Making estimations](https://github.com/agusle/nba-players-predictions/blob/main/nba_players_predictions.ipynb)
 
 ------------------
 
