@@ -52,8 +52,8 @@ The sport is played at a fast pace, with hundreds of plays in each single game, 
 - **Industries and applications**: Sports, NBA franchises, NBA Agents, NBA consultants, Basketball players.
 
 - **Solution**: Building a dataset by connecting to the NBA API and performing various estimations and predictions with Machine Learning algorithms:
-    - **Regression Models** to estimate players salaries.
-    - **Binary classification** to predict All-NBA players selections.
+    - **Regression Models** to estimate players salaries. Selected evaluation metrics and baseline models. Trained a linear and non linear regression models like SGDR (Stochastic Gradient Descent with Restarts) and Decision Tree Regressor. Also, tried with single variable and multi variable with hyperparameters tuning to get an accurate MAE.
+    - **Binary classification** to predict which players are going to be selected to ALL-NBA teams at the end of the season. Selected evaluation metrics and baseline models. Trained a logistic regression model, achieving an F1 score of 73%.
 
 
 You can see the whole project in the following **notebooks**:
